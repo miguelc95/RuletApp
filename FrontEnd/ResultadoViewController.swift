@@ -16,8 +16,9 @@ class ResultadoViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = UIColor.cyanColor()
-        if let Aportación = 
- Aportación.text = String(Aporta)
+        if let numero = Aporta {
+            Aportación.text = String(numero)
+        }
 
         // Do any additional setup after loading the view.
     }
