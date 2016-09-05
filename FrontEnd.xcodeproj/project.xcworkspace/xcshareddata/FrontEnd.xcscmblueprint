@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6EA926B00231605C2FA4373C13725CDB01BFC146",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0D6CB7A41F2758220F6A25B0CD23E47510039FAB" : 0,
+    "6EA926B00231605C2FA4373C13725CDB01BFC146" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F8D29BC8-6C3F-4B5D-8034-47EA2DC76CF6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0D6CB7A41F2758220F6A25B0CD23E47510039FAB" : "",
+    "6EA926B00231605C2FA4373C13725CDB01BFC146" : "FrontEnd\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FrontEnd",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FrontEnd.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/abrilgzz\/ruletapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0D6CB7A41F2758220F6A25B0CD23E47510039FAB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/miguelc95\/RuletApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6EA926B00231605C2FA4373C13725CDB01BFC146"
+    }
+  ]
+}
